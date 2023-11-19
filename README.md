@@ -8,8 +8,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=Python-Discord-Bot-Course&theme=holi) -->
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
-<!--START_SECTION:WakaTime-->
-<!--END_SECTION:WakaTime-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **smallshawn95/smallshawn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
