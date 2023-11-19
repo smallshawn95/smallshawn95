@@ -1,9 +1,18 @@
-### Hi there 👋
+# Hello, world! 👋
+
+![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true&include_all_commits=true)
+
+![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallshawn95&theme=holi&layout=donut)
+
+<!-- ![SmallShawn95's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=smallshawn95) -->
+<!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=Python-Discord-Bot-Course&theme=holi) -->
+<!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
+
+<!--START_SECTION:WakaTime-->
+<!--END_SECTION:WakaTime-->
 
 <!--
 **smallshawn95/smallshawn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
