@@ -1,4 +1,15 @@
-# Hello, world! 👋
+# Welcome to SmallShawn95's GitHub 👋
+
+![Typing_SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello,+world");cout+>>+"Hello,+world!"&center=true&size=22)
+
+![GitHub_User's_Stars](https://img.shields.io/github/stars/smallshawn95)
+![GitHub_Followers](https://img.shields.io/github/followers/smallshawn95)
+
+<!-- https://shields.io/, https://simpleicons.org/ -->
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://cplusplus.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://git-scm.com/)
 
 ![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true&include_all_commits=true)
 
