@@ -21,6 +21,8 @@
 
 ![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true&include_all_commits=true)
 
+![SmallShawn95's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smallshawn95&theme=tokyo-night)
+
 <!-- ![SmallShawn95's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=smallshawn95) -->
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=Python-Discord-Bot-Course&theme=holi) -->
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
