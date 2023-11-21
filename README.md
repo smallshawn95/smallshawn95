@@ -28,7 +28,7 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
 
@@ -99,7 +99,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/smallshawn95/smallshawn95/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2023 18:32:03 UTC
+ Last Updated on 21/11/2023 18:40:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
