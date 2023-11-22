@@ -3,7 +3,7 @@ name: WakaTime Readme
 on:
   schedule:
     # Runs at 16am UTC+0
-    - cron: '0 16 * * *'
+    - cron: "0 16 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
@@ -19,4 +19,6 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
