@@ -19,7 +19,7 @@
 
 ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallshawn95&theme=holi&layout=donut)
 
-![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true&include_all_commits=true)
+![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true)
 
 ![SmallShawn95's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smallshawn95&theme=tokyo-night)
 
