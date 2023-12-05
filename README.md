@@ -1,6 +1,6 @@
 # Welcome to SmallShawn95's GitHub 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello,+world");cout+>>+"Hello,+world!"&center=true&size=22)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello,+world");cout+>>+"Hello,+world!";console.log("Hello,+world!")&center=true&size=22)
 
 <!--
 ![GitHub User's Stars](https://img.shields.io/github/stars/smallshawn95?color=orange&label=Stars&labelColor=yellow)
@@ -17,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
 
-![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallshawn95&theme=holi&layout=donut)
+![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallshawn95&theme=holi&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=smallshawn95.github.io)
 
 ![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true)
 
