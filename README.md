@@ -21,12 +21,13 @@
 ![Xbox](https://img.shields.io/badge/-Xbox-107C10?style=flat-square&logo=xbox)
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam)
 ***
+
 <!-- ![GitHub User's Stars](https://img.shields.io/github/stars/smallshawn95?color=orange&label=Stars&labelColor=yellow) -->
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/smallshawn95?color=orange&label=Followers&labelColor=FFDBAC) -->
 
 ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallshawn95&theme=holi&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=smallshawn95.github.io)
 
-![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true)
+![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true&rank_icon=github)
 
 ![SmallShawn95's GitHub Streak](https://streak-stats.demolab.com/?user=smallshawn95&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)
 
