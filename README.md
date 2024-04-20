@@ -19,6 +19,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 * ### 💻 Gaming & Entertainment
 ![Xbox](https://img.shields.io/badge/-Xbox-107C10?style=flat-square&logo=xbox)
+![Battle.net](https://img.shields.io/badge/-Battle.net-4381C3?style=flat-square&logo=battledotnet&logoColor=white)
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam)
 ***
 
