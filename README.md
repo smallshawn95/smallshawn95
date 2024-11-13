@@ -1,6 +1,6 @@
 # Welcome to SmallShawn95's GitHub 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello,+world");cout+>>+"Hello,+world!";console.log("Hello,+world!")&center=true&vCenter=true&size=22&random=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello,+world!");printf("Hello,+world!");cout+<<+"Hello,+world!";console.log("Hello,+world!")&center=true&vCenter=true&size=22&random=true)
 
 ***
 <!-- https://shields.io/, https://simpleicons.org/ -->
