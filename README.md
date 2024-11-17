@@ -5,6 +5,7 @@
 ***
 <!-- https://shields.io/, https://simpleicons.org/ -->
 * ### 💻 Programming Language
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)](https://cplusplus.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,7 +19,6 @@
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 * ### 💻 Gaming & Entertainment
-![Xbox](https://img.shields.io/badge/-Xbox-107C10?style=flat-square&logo=xbox)
 ![Battle.net](https://img.shields.io/badge/-Battle.net-4381C3?style=flat-square&logo=battledotnet&logoColor=white)
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam)
 ***
