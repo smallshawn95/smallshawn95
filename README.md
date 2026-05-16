@@ -39,8 +39,51 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 17:25:22 UTC
+```text
+🌞 Morning                95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+🌆 Daytime                215 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌃 Evening                297 commits         ██████████░░░░░░░░░░░░░░░   40.63 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   152 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Sunday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    8 hrs 52 mins       █████████████████████████   98.29 % 
+Java                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+
+🔥 Editors: 
+Chrome                   8 hrs 52 mins       █████████████████████████   98.29 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+
+🐱‍💻 Projects: 
+麥塊學習教練培訓                 6 hrs 28 mins       ██████████████████░░░░░░░   71.66 % 
+ntou                     2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+
+💻 Operating System: 
+Windows                  9 hrs 2 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 16:56:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
