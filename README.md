@@ -39,51 +39,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-🌆 Daytime                215 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌃 Evening                297 commits         ██████████░░░░░░░░░░░░░░░   40.46 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   152 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    11 hrs 5 mins       █████████████████████████   98.63 % 
-Java                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-
-🔥 Editors: 
-Chrome                   11 hrs 5 mins       █████████████████████████   98.63 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-
-🐱‍💻 Projects: 
-麥塊學習教練培訓                 6 hrs 28 mins       ██████████████░░░░░░░░░░░   57.53 % 
-ntou                     4 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.47 % 
-
-💻 Operating System: 
-Windows                  11 hrs 15 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/05/2026 16:54:51 UTC
+ Last Updated on 18/05/2026 18:03:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
