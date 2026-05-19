@@ -39,8 +39,57 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 18/05/2026 18:03:45 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌃 Evening                297 commits         ██████████░░░░░░░░░░░░░░░   40.41 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    19 hrs 9 mins       ████████████████████████░   96.32 % 
+Java                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+Chrome                   18 hrs 42 mins      ████████████████████████░   94.01 % 
+VS Code                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+
+🐱‍💻 Projects: 
+ntou                     7 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
+麥塊學習教練培訓                 6 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.53 % 
+nginx                    5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+acme.sh                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+smallshawn95.github.io   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+
+💻 Operating System: 
+Windows                  19 hrs 17 mins      ████████████████████████░   96.98 % 
+Linux                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+```
+
+
+ Last Updated on 19/05/2026 18:03:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
