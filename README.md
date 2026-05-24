@@ -39,8 +39,57 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 23/05/2026 16:56:49 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌃 Evening                298 commits         ██████████░░░░░░░░░░░░░░░   40.49 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    23 hrs 22 mins      ████████████████████████░   95.51 % 
+Java                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+C++                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+
+🔥 Editors: 
+Chrome                   23 hrs 7 mins       ████████████████████████░   94.48 % 
+VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+
+🐱‍💻 Projects: 
+java-final-project       12 hrs 45 mins      █████████████░░░░░░░░░░░░   52.12 % 
+nginx                    5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+megabasterd              3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+ntou                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+acme.sh                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+💻 Operating System: 
+Windows                  23 hrs 52 mins      ████████████████████████░   97.54 % 
+Linux                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+```
+
+
+ Last Updated on 24/05/2026 16:57:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
