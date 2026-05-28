@@ -39,52 +39,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌃 Evening                298 commits         ██████████░░░░░░░░░░░░░░░   40.49 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    21 hrs 4 mins       ████████████████████████░   97.35 % 
-Java                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-C++                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-
-🔥 Editors: 
-Chrome                   21 hrs 17 mins      █████████████████████████   98.31 % 
-VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-
-🐱‍💻 Projects: 
-java-final-project       16 hrs 54 mins      ████████████████████░░░░░   78.07 % 
-megabasterd              4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-ntou                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-💻 Operating System: 
-Windows                  21 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 18:24:45 UTC
+ Last Updated on 28/05/2026 18:34:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
