@@ -39,8 +39,57 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 28/05/2026 18:34:37 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌃 Evening                298 commits         ██████████░░░░░░░░░░░░░░░   40.49 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    26 hrs 25 mins      ████████████████████████░   94.13 % 
+Python                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Java                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+C++                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+
+🔥 Editors: 
+Chrome                   26 hrs 15 mins      ███████████████████████░░   93.56 % 
+VS Code                  1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+
+🐱‍💻 Projects: 
+java-final-project       17 hrs 14 mins      ███████████████░░░░░░░░░░   61.43 % 
+megabasterd              4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+nginx                    3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+linkstack-docker         1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+LinkStack                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+
+💻 Operating System: 
+Windows                  26 hrs 59 mins      ████████████████████████░   96.17 % 
+Linux                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+```
+
+
+ Last Updated on 29/05/2026 18:30:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
