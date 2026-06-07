@@ -39,55 +39,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌃 Evening                298 commits         ██████████░░░░░░░░░░░░░░░   40.49 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    37 hrs 51 mins      ████████████████████████░   94.99 % 
-Python                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-C++                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-
-🔥 Editors: 
-Chrome                   38 hrs 7 mins       ████████████████████████░   95.66 % 
-VS Code                  1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-
-🐱‍💻 Projects: 
-ntou                     39 hrs 46 mins      █████████████████████████   99.80 % 
-營隊管理技巧培訓                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-B5702P36_電腦網路_資工系2A      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-doujinshi-dl             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Python-Discord-Bot-Course0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  39 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/06/2026 17:10:08 UTC
+ Last Updated on 07/06/2026 17:13:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
