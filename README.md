@@ -39,8 +39,54 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 07/06/2026 17:13:40 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌃 Evening                298 commits         ██████████░░░░░░░░░░░░░░░   40.49 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    35 hrs 12 mins      ████████████████████████░   97.34 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+
+🔥 Editors: 
+Chrome                   35 hrs 23 mins      ████████████████████████░   97.89 % 
+VS Code                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+
+🐱‍💻 Projects: 
+ntou                     36 hrs 3 mins       █████████████████████████   99.72 % 
+營隊管理技巧培訓                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+babybuddy                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+focalboard               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+recipes                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  36 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/06/2026 18:23:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
