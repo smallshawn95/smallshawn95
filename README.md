@@ -39,56 +39,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌃 Evening                301 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    25 hrs 38 mins      ███████████████████████░░   93.75 % 
-Java                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Todotxt                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-
-🔥 Editors: 
-Chrome                   26 hrs 38 mins      ████████████████████████░   97.42 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-🐱‍💻 Projects: 
-java-final-project       17 hrs 29 mins      ████████████████░░░░░░░░░   63.95 % 
-ntou                     9 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.12 % 
-netboot.xyz              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-babybuddy                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-focalboard               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-💻 Operating System: 
-Windows                  27 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/06/2026 17:18:18 UTC
+ Last Updated on 15/06/2026 19:45:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
