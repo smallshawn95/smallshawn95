@@ -39,8 +39,57 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 15/06/2026 19:45:46 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+🌃 Evening                301 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    23 hrs              ████████████████████████░   94.03 % 
+Java                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+Chrome                   23 hrs 35 mins      ████████████████████████░   96.42 % 
+VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+
+🐱‍💻 Projects: 
+java-final-project       10 hrs 45 mins      ███████████░░░░░░░░░░░░░░   44.01 % 
+dawarich                 9 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.54 % 
+netboot.xyz              3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+nginx                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+💻 Operating System: 
+Windows                  23 hrs 37 mins      ████████████████████████░   96.55 % 
+Linux                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+ Last Updated on 16/06/2026 19:31:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
