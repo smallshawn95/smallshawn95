@@ -39,57 +39,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌃 Evening                301 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    19 hrs 17 mins      ███████████████████████░░   92.95 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Chrome                   20 hrs 9 mins       ████████████████████████░   97.12 % 
-VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-🐱‍💻 Projects: 
-stable-diffusion-webui   8 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
-LunaTranslator           4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-api-hub                  3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-shaojiji                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-llama.cpp                1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-
-💻 Operating System: 
-Windows                  20 hrs 9 mins       ████████████████████████░   97.17 % 
-Linux                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-
-
- Last Updated on 23/07/2026 17:18:46 UTC
+ Last Updated on 24/07/2026 17:27:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
