@@ -39,8 +39,57 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2026 17:27:20 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+🌃 Evening                301 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    25 hrs 19 mins      ████████████████████████░   94.12 % 
+Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Chrome                   26 hrs 17 mins      ████████████████████████░   97.70 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+
+🐱‍💻 Projects: 
+stable-diffusion-webui   15 hrs 5 mins       ██████████████░░░░░░░░░░░   56.08 % 
+api-hub                  3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+shaojiji                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+LunaTranslator           2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+dawarich                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+
+💻 Operating System: 
+Windows                  26 hrs 18 mins      ████████████████████████░   97.74 % 
+Linux                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+```
+
+
+ Last Updated on 25/07/2026 16:53:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
