@@ -66,30 +66,30 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    25 hrs 19 mins      ████████████████████████░   94.12 % 
-Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    28 hrs 6 mins       ████████████████████████░   94.32 % 
+Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 17 mins      ████████████████████████░   97.70 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Chrome                   29 hrs 5 mins       ████████████████████████░   97.64 % 
+VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-stable-diffusion-webui   15 hrs 5 mins       ██████████████░░░░░░░░░░░   56.08 % 
-api-hub                  3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-shaojiji                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-LunaTranslator           2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-dawarich                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+stable-diffusion-webui   15 hrs 5 mins       █████████████░░░░░░░░░░░░   50.64 % 
+dawarich                 6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+api-hub                  3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+shaojiji                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+llama.cpp                1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 💻 Operating System: 
-Windows                  26 hrs 18 mins      ████████████████████████░   97.74 % 
-Linux                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Windows                  29 hrs 11 mins      ████████████████████████░   97.96 % 
+Linux                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
- Last Updated on 25/07/2026 16:53:37 UTC
+ Last Updated on 26/07/2026 16:55:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
