@@ -39,62 +39,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌃 Evening                301 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    28 hrs 57 mins      ████████████████████████░   96.22 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-🔥 Editors: 
-Chrome                   29 hrs 57 mins      █████████████████████████   99.51 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-
-🐱‍💻 Projects: 
-stable-diffusion-webui   15 hrs 5 mins       █████████████░░░░░░░░░░░░   50.15 % 
-dawarich                 8 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-api-hub                  3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-llama.cpp                1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-shaojiji                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-
-💻 Operating System: 
-Windows                  30 hrs 2 mins       █████████████████████████   99.82 % 
-Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 27/07/2026 17:39:58 UTC
+ Last Updated on 28/07/2026 17:23:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
