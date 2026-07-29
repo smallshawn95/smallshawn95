@@ -39,8 +39,58 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 28/07/2026 17:23:59 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+🌃 Evening                301 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    22 hrs 51 mins      █████████████████████████   99.10 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+
+🔥 Editors: 
+Chrome                   22 hrs 58 mins      █████████████████████████   99.63 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+🐱‍💻 Projects: 
+dawarich                 11 hrs 57 mins      █████████████░░░░░░░░░░░░   51.88 % 
+stable-diffusion-webui   11 hrs              ████████████░░░░░░░░░░░░░   47.75 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+💻 Operating System: 
+Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 29/07/2026 17:12:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
