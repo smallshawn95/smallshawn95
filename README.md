@@ -66,21 +66,21 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    18 hrs 11 mins      █████████████████████████   98.87 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Other                    14 hrs 27 mins      █████████████████████████   98.65 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 18 mins      █████████████████████████   99.54 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Chrome                   14 hrs 33 mins      █████████████████████████   99.42 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-dawarich                 11 hrs 57 mins      ████████████████░░░░░░░░░   65.03 % 
-stable-diffusion-webui   6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+dawarich                 11 hrs 57 mins      ████████████████████░░░░░   81.66 % 
+stable-diffusion-webui   2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  18 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +90,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2026 17:23:41 UTC
+ Last Updated on 31/07/2026 17:26:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
