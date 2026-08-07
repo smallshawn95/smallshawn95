@@ -39,53 +39,8 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌃 Evening                301 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    11 hrs 46 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   11 hrs 46 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-dawarich                 11 hrs 46 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  11 hrs 46 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 05/08/2026 17:26:19 UTC
+ Last Updated on 07/08/2026 16:51:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
