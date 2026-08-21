@@ -66,18 +66,24 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    20 hrs 8 mins       █████████████████████████   98.99 % 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Other                    24 hrs 21 mins      ████████████████████████░   97.68 % 
+YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Chrome                   20 hrs 21 mins      █████████████████████████   100.00 % 
+Chrome                   24 hrs 33 mins      █████████████████████████   98.54 % 
+VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🐱‍💻 Projects: 
-dawarich                 20 hrs 15 mins      █████████████████████████   99.50 % 
-Pake                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+dawarich                 19 hrs 52 mins      ████████████████████░░░░░   79.74 % 
+komga                    3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+homepage                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Pake                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+cloudflared              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  20 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 33 mins      █████████████████████████   98.54 % 
+Linux                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +93,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/08/2026 16:30:59 UTC
+ Last Updated on 21/08/2026 16:29:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
