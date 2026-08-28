@@ -66,25 +66,24 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    35 hrs 32 mins      ████████████████████████░   96.31 % 
-YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    32 hrs 38 mins      ████████████████████████░   96.53 % 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Chrome                   35 hrs 50 mins      ████████████████████████░   97.12 % 
-VS Code                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Chrome                   32 hrs 42 mins      ████████████████████████░   96.73 % 
+VS Code                  1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-homepage                 24 hrs 6 mins       ████████████████░░░░░░░░░   65.32 % 
-dawarich                 8 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-komga                    3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-uptime-kuma              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Pake                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+homepage                 24 hrs 41 mins      ██████████████████░░░░░░░   73.00 % 
+smallshawn95             5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+nginx                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Komelia                  36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+alist                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Windows                  35 hrs 50 mins      ████████████████████████░   97.12 % 
-Linux                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Windows                  32 hrs 42 mins      ████████████████████████░   96.73 % 
+Linux                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +93,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/08/2026 16:45:49 UTC
+ Last Updated on 28/08/2026 00:45:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
