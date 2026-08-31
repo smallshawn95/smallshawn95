@@ -66,24 +66,23 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    27 hrs 10 mins      ████████████████████████░   97.51 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    22 hrs 28 mins      ████████████████████████░   97.48 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 9 mins       ████████████████████████░   97.43 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Chrome                   22 hrs 27 mins      ████████████████████████░   97.35 % 
+VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-homepage                 15 hrs 56 mins      ██████████████░░░░░░░░░░░   57.20 % 
-smallshawn95             8 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-nginx                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Komelia                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-alist                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+smallshawn95             13 hrs 22 mins      ███████████████░░░░░░░░░░   58.01 % 
+homepage                 5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+nginx                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Komelia                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+alist                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  27 hrs 9 mins       ████████████████████████░   97.43 % 
-Linux                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Windows                  22 hrs 27 mins      ████████████████████████░   97.35 % 
+Linux                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2026 19:01:44 UTC
+ Last Updated on 31/08/2026 21:17:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
