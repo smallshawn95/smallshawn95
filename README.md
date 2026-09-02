@@ -66,23 +66,23 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    22 hrs 28 mins      ████████████████████████░   97.48 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Other                    18 hrs 48 mins      █████████████████████████   98.32 % 
+YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 27 mins      ████████████████████████░   97.35 % 
-VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Chrome                   18 hrs 47 mins      █████████████████████████   98.16 % 
+VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🐱‍💻 Projects: 
-smallshawn95             13 hrs 22 mins      ███████████████░░░░░░░░░░   58.01 % 
-homepage                 5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-nginx                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Komelia                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-alist                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+smallshawn95             13 hrs 23 mins      █████████████████░░░░░░░░   69.95 % 
+nginx                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+homepage                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Komelia                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+alist                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Windows                  22 hrs 27 mins      ████████████████████████░   97.35 % 
-Linux                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Windows                  18 hrs 47 mins      █████████████████████████   98.16 % 
+Linux                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/09/2026 19:11:39 UTC
+ Last Updated on 02/09/2026 19:12:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
