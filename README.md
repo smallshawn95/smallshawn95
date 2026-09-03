@@ -66,23 +66,19 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    18 hrs 48 mins      █████████████████████████   98.32 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    10 hrs 46 mins      █████████████████████████   99.99 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 47 mins      █████████████████████████   98.16 % 
-VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Chrome                   10 hrs 45 mins      █████████████████████████   99.88 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-smallshawn95             13 hrs 23 mins      █████████████████░░░░░░░░   69.95 % 
-nginx                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-homepage                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Komelia                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-alist                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+smallshawn95             10 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 47 mins      █████████████████████████   98.16 % 
-Linux                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Windows                  10 hrs 45 mins      █████████████████████████   99.88 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +88,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/09/2026 19:12:37 UTC
+ Last Updated on 03/09/2026 19:04:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
