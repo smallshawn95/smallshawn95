@@ -66,19 +66,19 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    13 hrs 24 mins      █████████████████████████   99.12 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    11 hrs 59 mins      █████████████████████████   99.01 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 31 mins      █████████████████████████   100.00 % 
+Chrome                   12 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-smallshawn95             12 hrs 20 mins      ███████████████████████░░   91.27 % 
-SteamManifestCache       1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-AdGuardHome              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+smallshawn95             8 hrs 55 mins       ██████████████████░░░░░░░   73.65 % 
+SteamManifestCache       3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+AdGuardHome              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  13 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,7 +88,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/09/2026 18:31:42 UTC
+ Last Updated on 14/09/2026 20:09:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
