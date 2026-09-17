@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌃 Evening                304 commits         ██████████░░░░░░░░░░░░░░░   40.97 % 
-🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+🌞 Morning                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌃 Evening                304 commits         ██████████░░░░░░░░░░░░░░░   40.92 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Wednesday                158 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Wednesday                158 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Thursday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 ```
 
 
@@ -66,18 +66,18 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    13 hrs 49 mins      █████████████████████████   99.24 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    12 hrs 37 mins      █████████████████████████   99.17 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 55 mins      █████████████████████████   100.00 % 
+Chrome                   12 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SteamManifestCache       7 hrs 7 mins        █████████████░░░░░░░░░░░░   51.20 % 
-smallshawn95             6 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.80 % 
+SteamManifestCache       7 hrs 7 mins        ██████████████░░░░░░░░░░░   56.00 % 
+smallshawn95             5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +87,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2026 19:21:57 UTC
+ Last Updated on 17/09/2026 19:31:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
