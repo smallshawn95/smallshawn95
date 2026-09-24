@@ -44,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-🌆 Daytime                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-🌃 Evening                306 commits         ██████████░░░░░░░░░░░░░░░   41.02 % 
-🌙 Night                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+🌞 Morning                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+🌆 Daytime                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌃 Evening                306 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
+🌙 Night                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Tuesday                  147 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Wednesday                158 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Thursday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Tuesday                  147 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Wednesday                158 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Thursday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
 
 
@@ -68,27 +68,27 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    26 hrs 31 mins      ██████████████████████░░░   86.07 % 
-Bash                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-C#                       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Git Config               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    25 hrs 48 mins      █████████████████████░░░░   85.19 % 
+Bash                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+C#                       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 43 mins      ██████████████████████░░░   86.69 % 
-VS Code                  4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Chrome                   26 hrs 8 mins       ██████████████████████░░░   86.32 % 
+VS Code                  4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-SteamManifestCache       8 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-homelab                  7 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-smallshawn95             5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-dawarich                 5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-FirstProject             3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+homelab                  8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+smallshawn95             5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+SteamManifestCache       5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+dawarich                 5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+FirstProject             3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 
 💻 Operating System: 
-Windows                  27 hrs 28 mins      ██████████████████████░░░   89.11 % 
-Linux                    3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Windows                  26 hrs 53 mins      ██████████████████████░░░   88.79 % 
+Linux                    3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +112,7 @@ Linux                    3 hrs 21 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 23/09/2026 19:26:09 UTC
+ Last Updated on 24/09/2026 19:47:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
