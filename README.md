@@ -68,27 +68,27 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    25 hrs 48 mins      █████████████████████░░░░   85.19 % 
-Bash                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-C#                       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Other                    23 hrs 56 mins      █████████████████████░░░░   84.22 % 
+Bash                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+C#                       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 8 mins       ██████████████████████░░░   86.32 % 
-VS Code                  4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Chrome                   24 hrs 17 mins      █████████████████████░░░░   85.43 % 
+VS Code                  4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-homelab                  8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-smallshawn95             5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-SteamManifestCache       5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-dawarich                 5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-FirstProject             3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+homelab                  8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+smallshawn95             5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+dawarich                 5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+FirstProject             3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+SteamManifestCache       3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 53 mins      ██████████████████████░░░   88.79 % 
-Linux                    3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Windows                  25 hrs 1 min        ██████████████████████░░░   88.06 % 
+Linux                    3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +112,7 @@ Linux                    3 hrs 23 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 24/09/2026 19:47:28 UTC
+ Last Updated on 25/09/2026 19:48:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
