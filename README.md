@@ -68,35 +68,35 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    16 hrs 50 mins      █████████████████████░░░░   82.48 % 
-Bash                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-C#                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Git Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Other                    12 hrs 1 min        █████████████████████░░░░   84.72 % 
+YAML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+C#                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 55 mins      █████████████████████░░░░   82.83 % 
-VS Code                  3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Chrome                   12 hrs 8 mins       █████████████████████░░░░   85.52 % 
+VS Code                  2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-homelab                  8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
-smallshawn95             4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-FirstProject             3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-dawarich                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-WITRN-K2-Quick-Reference-2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+homelab                  7 hrs 16 mins       █████████████░░░░░░░░░░░░   51.27 % 
+FirstProject             3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+WITRN-K2-Quick-Reference-2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+dawarich                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+smallshawn95             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  17 hrs 35 mins      ██████████████████████░░░   86.13 % 
-Linux                    2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Windows                  12 hrs 43 mins      ██████████████████████░░░   89.55 % 
+Linux                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.05%)
+⏱ AI Coding Time: 0 secs (0.07%)
 
-✍️ 0 lines written by AI, 58,090 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 264 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -112,7 +112,7 @@ Linux                    2 hrs 50 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 27/09/2026 19:31:11 UTC
+ Last Updated on 28/09/2026 21:34:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
