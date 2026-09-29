@@ -68,51 +68,36 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    12 hrs 1 min        █████████████████████░░░░   84.72 % 
-YAML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-C#                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    11 hrs 40 mins      ████████████████████████░   94.49 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+C#                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 8 mins       █████████████████████░░░░   85.52 % 
-VS Code                  2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Chrome                   11 hrs 50 mins      ████████████████████████░   95.95 % 
+VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🐱‍💻 Projects: 
-homelab                  7 hrs 16 mins       █████████████░░░░░░░░░░░░   51.27 % 
-FirstProject             3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-WITRN-K2-Quick-Reference-2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-dawarich                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-smallshawn95             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+WITRN-K2-Quick-Reference-5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.06 % 
+homelab                  4 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
+FirstProject             2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Sunshine                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+dozzle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  12 hrs 43 mins      ██████████████████████░░░   89.55 % 
-Linux                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Windows                  11 hrs 55 mins      ████████████████████████░   96.50 % 
+Linux                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.07%)
-
-✍️ 0 lines written by AI, 264 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 34 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 11,482 characters per prompt
-🔁 Iterative Prompter — average 34 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/09/2026 21:34:48 UTC
+ Last Updated on 29/09/2026 20:26:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
