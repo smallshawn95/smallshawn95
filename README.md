@@ -68,26 +68,21 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    8 hrs 15 mins       ████████████████████████░   96.34 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    11 hrs 41 mins      ████████████████████████░   97.36 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 25 mins       █████████████████████████   98.14 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Chrome                   11 hrs 52 mins      █████████████████████████   98.99 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🐱‍💻 Projects: 
-WITRN-K2-Quick-Reference-5 hrs 44 mins       █████████████████░░░░░░░░   67.00 % 
-homelab                  1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-FirstProject             50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-ntou                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Sunshine                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+ntou                     6 hrs 19 mins       █████████████░░░░░░░░░░░░   52.71 % 
+WITRN-K2-Quick-Reference-4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.26 % 
+FirstProject             50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 💻 Operating System: 
-Windows                  8 hrs 32 mins       █████████████████████████   99.55 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Windows                  12 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2026 20:31:27 UTC
+ Last Updated on 01/10/2026 20:47:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
