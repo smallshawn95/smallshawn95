@@ -68,21 +68,23 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    11 hrs 41 mins      ████████████████████████░   97.36 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    19 hrs 2 mins       █████████████████████████   98.22 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 52 mins      █████████████████████████   98.99 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Chrome                   19 hrs 15 mins      █████████████████████████   99.38 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
-ntou                     6 hrs 19 mins       █████████████░░░░░░░░░░░░   52.71 % 
-WITRN-K2-Quick-Reference-4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.26 % 
-FirstProject             50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+ntou                     14 hrs 37 mins      ███████████████████░░░░░░   75.43 % 
+WITRN-K2-Quick-Reference-3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+FirstProject             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+feishin                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+awesome-selfhosted       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs              █████████████████████████   100.00 % 
+Windows                  19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +94,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/10/2026 20:47:13 UTC
+ Last Updated on 02/10/2026 20:20:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
