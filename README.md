@@ -44,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-🌆 Daytime                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌃 Evening                307 commits         ██████████░░░░░░░░░░░░░░░   40.82 % 
-🌙 Night                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌆 Daytime                226 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+🌃 Evening                307 commits         ██████████░░░░░░░░░░░░░░░   40.45 % 
+🌙 Night                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Tuesday                  147 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Wednesday                160 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Friday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Tuesday                  148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Wednesday                160 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Friday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Saturday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Sunday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 ```
 
 
@@ -68,23 +68,23 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    19 hrs 2 mins       █████████████████████████   98.22 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    23 hrs 50 mins      █████████████████████████   98.11 % 
+Text                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 15 mins      █████████████████████████   99.38 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Chrome                   24 hrs 10 mins      █████████████████████████   99.50 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-ntou                     14 hrs 37 mins      ███████████████████░░░░░░   75.43 % 
-WITRN-K2-Quick-Reference-3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-FirstProject             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+ntou                     16 hrs 14 mins      █████████████████░░░░░░░░   66.85 % 
+WITRN-K2-Quick-Reference-3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+PDFMathTranslate         3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+FirstProject             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 feishin                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-awesome-selfhosted       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +94,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2026 18:59:55 UTC
+ Last Updated on 04/10/2026 19:01:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
