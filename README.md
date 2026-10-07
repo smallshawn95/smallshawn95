@@ -68,25 +68,24 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    29 hrs 13 mins      █████████████████████████   98.28 % 
-Text                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    31 hrs 21 mins      █████████████████████████   98.77 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Chrome                   29 hrs 33 mins      █████████████████████████   99.43 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Chrome                   31 hrs 41 mins      █████████████████████████   99.85 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-ntou                     16 hrs 14 mins      ██████████████░░░░░░░░░░░   54.62 % 
-PDFMathTranslate         12 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
-FirstProject             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-WITRN-K2-Quick-Reference-33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-homelab                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+PDFMathTranslate         16 hrs 8 mins       █████████████░░░░░░░░░░░░   50.86 % 
+ntou                     15 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.95 % 
+homelab                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+online-judge-deploy      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+feishin                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  29 hrs 41 mins      █████████████████████████   99.84 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Windows                  31 hrs 41 mins      █████████████████████████   99.85 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,7 +95,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2026 20:47:19 UTC
+ Last Updated on 07/10/2026 20:59:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
