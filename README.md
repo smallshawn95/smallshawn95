@@ -68,24 +68,24 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    31 hrs 21 mins      █████████████████████████   98.77 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    27 hrs 38 mins      █████████████████████████   99.30 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 41 mins      █████████████████████████   99.85 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Chrome                   27 hrs 46 mins      █████████████████████████   99.82 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-PDFMathTranslate         16 hrs 8 mins       █████████████░░░░░░░░░░░░   50.86 % 
-ntou                     15 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.95 % 
-homelab                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+PDFMathTranslate         17 hrs 51 mins      ████████████████░░░░░░░░░   64.16 % 
+ntou                     9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
+homelab                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 online-judge-deploy      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-feishin                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+feishin                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  31 hrs 41 mins      █████████████████████████   99.85 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Windows                  27 hrs 46 mins      █████████████████████████   99.82 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2026 20:59:31 UTC
+ Last Updated on 08/10/2026 21:01:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
