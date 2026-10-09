@@ -68,24 +68,24 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    27 hrs 38 mins      █████████████████████████   99.30 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    20 hrs 1 min        █████████████████████████   99.18 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 46 mins      █████████████████████████   99.82 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Chrome                   20 hrs 8 mins       █████████████████████████   99.76 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-PDFMathTranslate         17 hrs 51 mins      ████████████████░░░░░░░░░   64.16 % 
-ntou                     9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
-homelab                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-online-judge-deploy      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-feishin                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PDFMathTranslate         18 hrs 30 mins      ███████████████████████░░   91.71 % 
+ntou                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+homelab                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+online-judge-deploy      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+edb-installers           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  27 hrs 46 mins      █████████████████████████   99.82 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Windows                  20 hrs 8 mins       █████████████████████████   99.76 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/10/2026 21:01:13 UTC
+ Last Updated on 09/10/2026 20:32:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
