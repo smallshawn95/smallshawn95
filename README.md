@@ -44,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                226 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                307 commits         ██████████░░░░░░░░░░░░░░░   40.45 % 
-🌙 Night                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+🌆 Daytime                228 commits         ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+🌃 Evening                309 commits         ██████████░░░░░░░░░░░░░░░   40.50 % 
+🌙 Night                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Tuesday                  148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Wednesday                160 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Friday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Saturday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Sunday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Monday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Tuesday                  148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Wednesday                160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Friday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Saturday                 61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Sunday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 ```
 
 
@@ -68,26 +68,26 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    18 hrs 30 mins      █████████████████████████   99.16 % 
-C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    21 hrs 17 mins      ████████████████████████░   96.36 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 31 mins      █████████████████████████   99.17 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Chrome                   21 hrs 17 mins      ████████████████████████░   96.30 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🐱‍💻 Projects: 
-PDFMathTranslate         18 hrs 30 mins      █████████████████████████   99.16 % 
-ntou                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-homelab                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-online-judge-deploy      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-ntou-coursework          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+PDFMathTranslate         20 hrs 10 mins      ███████████████████████░░   91.29 % 
+homelab                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+ntou                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+smallshawn95             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+vaultwarden-backup       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  18 hrs 37 mins      █████████████████████████   99.74 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Windows                  21 hrs 23 mins      ████████████████████████░   96.78 % 
+Linux                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/10/2026 19:43:56 UTC
+ Last Updated on 11/10/2026 19:54:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
