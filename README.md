@@ -68,33 +68,33 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    21 hrs 9 mins       ██████████████████████░░░   87.25 % 
-Bash                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    22 hrs 18 mins      ██████████████████████░░░   87.25 % 
+Bash                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 8 mins       ██████████████████████░░░   87.17 % 
-VS Code                  3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Chrome                   22 hrs 26 mins      ██████████████████████░░░   87.83 % 
+VS Code                  3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-PDFMathTranslate         10 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
-homelab                  7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-FirstProject             2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-api-hub                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-smallshawn95             1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+PDFMathTranslate         8 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+homelab                  7 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+api-hub                  3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+FirstProject             2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+smallshawn95             1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 💻 Operating System: 
-Windows                  21 hrs 39 mins      ██████████████████████░░░   89.31 % 
-Linux                    2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Windows                  22 hrs 57 mins      ██████████████████████░░░   89.85 % 
+Linux                    2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (0.37%)
+⏱ AI Coding Time: 5 mins (0.35%)
 
 ✍️ 0 lines written by AI, 672 lines written by hand (0.0% AI-written)
 
@@ -114,7 +114,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/10/2026 19:58:05 UTC
+ Last Updated on 15/10/2026 19:41:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
