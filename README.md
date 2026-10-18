@@ -68,27 +68,27 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    29 hrs 55 mins      ██████████████████████░░░   87.76 % 
-Bash                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    29 hrs 53 mins      ██████████████████████░░░   87.08 % 
+Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 15 mins      ██████████████████████░░░   88.74 % 
-VS Code                  3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Chrome                   30 hrs 13 mins      ██████████████████████░░░   88.06 % 
+VS Code                  4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-homelab                  14 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.77 % 
-PDFMathTranslate         7 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-api-hub                  3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-FirstProject             2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-wud                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+homelab                  17 hrs 51 mins      █████████████░░░░░░░░░░░░   52.03 % 
+PDFMathTranslate         4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+api-hub                  3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+FirstProject             2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+wud                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 💻 Operating System: 
-Windows                  30 hrs 46 mins      ███████████████████████░░   90.26 % 
-Linux                    3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Windows                  30 hrs 38 mins      ██████████████████████░░░   89.27 % 
+Linux                    3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,7 +96,7 @@ Linux                    3 hrs 19 mins       ██░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 5 mins (0.26%)
 
-✍️ 0 lines written by AI, 777 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 703 lines written by hand (0.0% AI-written)
 
 🔤 31,584 Input Tokens, 3,810 Output Tokens
 
@@ -114,7 +114,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/10/2026 18:08:38 UTC
+ Last Updated on 18/10/2026 18:26:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
