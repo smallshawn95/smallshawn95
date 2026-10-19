@@ -39,7 +39,7 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,53 +68,53 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    29 hrs 53 mins      ██████████████████████░░░   87.08 % 
-Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other                    28 hrs 57 mins      ███████████████████████░░   90.07 % 
+YAML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 13 mins      ██████████████████████░░░   88.06 % 
-VS Code                  4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Chrome                   29 hrs              ███████████████████████░░   90.22 % 
+VS Code                  2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🐱‍💻 Projects: 
-homelab                  17 hrs 51 mins      █████████████░░░░░░░░░░░░   52.03 % 
-PDFMathTranslate         4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-api-hub                  3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-FirstProject             2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-wud                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+homelab                  16 hrs 2 mins       ████████████░░░░░░░░░░░░░   49.87 % 
+wakapi                   3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+api-hub                  3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+FirstProject             2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+wud                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 💻 Operating System: 
-Windows                  30 hrs 38 mins      ██████████████████████░░░   89.27 % 
-Linux                    3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Windows                  29 hrs 47 mins      ███████████████████████░░   92.65 % 
+Linux                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (0.26%)
+⏱ AI Coding Time: 29 mins (1.54%)
 
-✍️ 0 lines written by AI, 703 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 409 lines written by hand (0.0% AI-written)
 
-🔤 31,584 Input Tokens, 3,810 Output Tokens
+🔤 362,107 Input Tokens, 27,808 Output Tokens
 
-💵 $0.01 Estimated AI Cost This Week
+💵 $3.89 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 40 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 18:26:49 UTC
+ Last Updated on 19/10/2026 20:52:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
