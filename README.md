@@ -44,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-🌆 Daytime                231 commits         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-🌃 Evening                316 commits         ██████████░░░░░░░░░░░░░░░   40.31 % 
-🌙 Night                  133 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌆 Daytime                231 commits         ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌃 Evening                316 commits         ██████████░░░░░░░░░░░░░░░   40.36 % 
+🌙 Night                  133 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Tuesday                  148 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Wednesday                175 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Friday                   47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Saturday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Monday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Tuesday                  148 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Wednesday                175 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Friday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Saturday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 ```
 
 
@@ -68,53 +68,53 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    19 hrs 2 mins       ██████████████████████░░░   86.22 % 
-YAML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-C#                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Other                    20 hrs 25 mins      ███████████████████░░░░░░   77.63 % 
+YAML                     3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+C#                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 46 mins      █████████████████████░░░░   85.00 % 
-VS Code                  2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Codex Vscode             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Chrome                   18 hrs 38 mins      ██████████████████░░░░░░░   70.85 % 
+VS Code                  5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Codex Vscode             1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🐱‍💻 Projects: 
-homelab                  8 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.56 % 
-wakapi                   4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-api-hub                  3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-yt-download-line-bot     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-metabase                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+homelab                  10 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.10 % 
+wakapi                   5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+api-hub                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+yt-download-line-bot     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+nginx                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 💻 Operating System: 
-Windows                  20 hrs 22 mins      ███████████████████████░░   92.24 % 
-Linux                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Windows                  20 hrs 14 mins      ███████████████████░░░░░░   76.93 % 
+Linux                    6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (7.44%)
+⏱ AI Coding Time: 2 hrs 28 mins (9.42%)
 
-✍️ 449 lines written by AI, 157 lines written by hand (74.09% AI-written)
+✍️ 808 lines written by AI, 438 lines written by hand (64.85% AI-written)
 
-🔤 810,779 Input Tokens, 69,389 Output Tokens
+🔤 1,347,347 Input Tokens, 110,235 Output Tokens
 
-💵 $6.19 Estimated AI Cost This Week
+💵 $8.60 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 23 AI Prompts
+🧠 10 AI Sessions, 39 AI Prompts
 
-GPT                      449 lines           █████████████████████████   100.00 % 
+GPT                      808 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.09% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 30.82% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.85% of written lines came from AI
+📝 Concise Prompter — average 278 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 46.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 18:34:44 UTC
+ Last Updated on 25/10/2026 18:43:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
