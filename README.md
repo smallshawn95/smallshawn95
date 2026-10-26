@@ -39,7 +39,7 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,53 +68,53 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    20 hrs 25 mins      ███████████████████░░░░░░   77.63 % 
-YAML                     3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-C#                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other                    17 hrs 22 mins      █████████████████░░░░░░░░   69.24 % 
+YAML                     4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+C#                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 38 mins      ██████████████████░░░░░░░   70.85 % 
-VS Code                  5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Codex Vscode             1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Chrome                   15 hrs 30 mins      ███████████████░░░░░░░░░░   61.81 % 
+VS Code                  7 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
+Codex Vscode             1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🐱‍💻 Projects: 
-homelab                  10 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.10 % 
-wakapi                   5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-api-hub                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-yt-download-line-bot     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-nginx                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+homelab                  8 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
+wakapi                   3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+api-hub                  3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+nginx                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+yt-download-line-bot     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 💻 Operating System: 
-Windows                  20 hrs 14 mins      ███████████████████░░░░░░   76.93 % 
-Linux                    6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Windows                  16 hrs 39 mins      █████████████████░░░░░░░░   66.39 % 
+Linux                    8 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (9.42%)
+⏱ AI Coding Time: 3 hrs 32 mins (14.1%)
 
-✍️ 808 lines written by AI, 438 lines written by hand (64.85% AI-written)
+✍️ 1,229 lines written by AI, 606 lines written by hand (66.98% AI-written)
 
-🔤 1,347,347 Input Tokens, 110,235 Output Tokens
+🔤 1,728,372 Input Tokens, 151,801 Output Tokens
 
-💵 $8.60 Estimated AI Cost This Week
+💵 $10.19 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 39 AI Prompts
+🧠 12 AI Sessions, 61 AI Prompts
 
-GPT                      808 lines           █████████████████████████   100.00 % 
+GPT                      1,229 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.85% of written lines came from AI
-📝 Concise Prompter — average 278 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 46.63% of changed lines were hand-edited
+🤖 AI-Driven — 66.98% of written lines came from AI
+📝 Concise Prompter — average 230 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 44.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 18:43:04 UTC
+ Last Updated on 26/10/2026 20:53:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
