@@ -39,7 +39,7 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2052%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,53 +68,53 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    17 hrs 22 mins      █████████████████░░░░░░░░   69.24 % 
-YAML                     4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-C#                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other                    23 hrs 54 mins      ███████████████████░░░░░░   76.07 % 
+YAML                     4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Nginx configuration file 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 30 mins      ███████████████░░░░░░░░░░   61.81 % 
-VS Code                  7 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
-Codex Vscode             1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Chrome                   20 hrs 26 mins      ████████████████░░░░░░░░░   65.04 % 
+VS Code                  9 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Codex Vscode             1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🐱‍💻 Projects: 
-homelab                  8 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
-wakapi                   3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-api-hub                  3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-nginx                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-yt-download-line-bot     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+homelab                  11 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.85 % 
+nginx                    7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+wakapi                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+api-hub                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+metabase                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Windows                  16 hrs 39 mins      █████████████████░░░░░░░░   66.39 % 
-Linux                    8 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
+Windows                  20 hrs 49 mins      █████████████████░░░░░░░░   66.24 % 
+Linux                    10 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 32 mins (14.1%)
+⏱ AI Coding Time: 4 hrs 36 mins (14.65%)
 
-✍️ 1,229 lines written by AI, 606 lines written by hand (66.98% AI-written)
+✍️ 815 lines written by AI, 627 lines written by hand (56.52% AI-written)
 
-🔤 1,728,372 Input Tokens, 151,801 Output Tokens
+🔤 2,325,618 Input Tokens, 268,300 Output Tokens
 
-💵 $10.19 Estimated AI Cost This Week
+💵 $38.19 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 61 AI Prompts
+🧠 13 AI Sessions, 69 AI Prompts
 
-GPT                      1,229 lines         █████████████████████████   100.00 % 
+GPT                      815 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.98% of written lines came from AI
-📝 Concise Prompter — average 230 characters per prompt
+⚖️ Balanced with AI — 56.52% of written lines came from AI
+📝 Concise Prompter — average 295 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 44.14% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 20:53:36 UTC
+ Last Updated on 27/10/2026 20:24:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
