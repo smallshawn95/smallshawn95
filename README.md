@@ -39,7 +39,7 @@
 <!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,53 +68,53 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    23 hrs 54 mins      ███████████████████░░░░░░   76.07 % 
-YAML                     4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Other                    24 hrs 28 mins      ███████████████████░░░░░░   77.34 % 
+YAML                     4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 Nginx configuration file 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Chrome                   20 hrs 26 mins      ████████████████░░░░░░░░░   65.04 % 
-VS Code                  9 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-Codex Vscode             1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Chrome                   20 hrs 49 mins      ████████████████░░░░░░░░░   65.82 % 
+VS Code                  9 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Codex Vscode             1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🐱‍💻 Projects: 
-homelab                  11 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.85 % 
-nginx                    7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-wakapi                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-api-hub                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-metabase                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+homelab                  11 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   36.01 % 
+nginx                    7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+wakapi                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+project                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+smallshawn95             1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 💻 Operating System: 
-Windows                  20 hrs 49 mins      █████████████████░░░░░░░░   66.24 % 
-Linux                    10 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.76 % 
+Windows                  21 hrs 1 min        █████████████████░░░░░░░░   66.46 % 
+Linux                    10 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 36 mins (14.65%)
+⏱ AI Coding Time: 4 hrs 39 mins (14.7%)
 
-✍️ 815 lines written by AI, 627 lines written by hand (56.52% AI-written)
+✍️ 780 lines written by AI, 609 lines written by hand (56.16% AI-written)
 
-🔤 2,325,618 Input Tokens, 268,300 Output Tokens
+🔤 2,456,784 Input Tokens, 272,531 Output Tokens
 
-💵 $38.19 Estimated AI Cost This Week
+💵 $48.42 Estimated AI Cost This Week
 
 🧠 13 AI Sessions, 69 AI Prompts
 
-GPT                      815 lines           █████████████████████████   100.00 % 
+GPT                      780 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.52% of written lines came from AI
-📝 Concise Prompter — average 295 characters per prompt
+⚖️ Balanced with AI — 56.16% of written lines came from AI
+📝 Concise Prompter — average 293 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 55.63% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 56.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 20:24:41 UTC
+ Last Updated on 28/10/2026 20:45:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
