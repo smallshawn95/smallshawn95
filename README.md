@@ -4,21 +4,38 @@
 
 ***
 <!-- https://shields.io/, https://simpleicons.org/ -->
-* ### 💻 Programming Language
+### 💻 Programming Language
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)](https://cplusplus.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-* ### 💻 Development Tools
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-* ### 💻 Gaming & Entertainment
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+### 💻 Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 💻 DevOps & Self-Hosting
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+
+### 💻 Development Tools
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 💻 Gaming & Entertainment
 ![Battle.net](https://img.shields.io/badge/-Battle.net-4381C3?style=flat-square&logo=battledotnet&logoColor=white)
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam)
 ***
@@ -26,17 +43,18 @@
 <!-- ![GitHub User's Stars](https://img.shields.io/github/stars/smallshawn95?color=orange&label=Stars&labelColor=yellow) -->
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/smallshawn95?color=orange&label=Followers&labelColor=FFDBAC) -->
 
-![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallshawn95&theme=holi&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=smallshawn95.github.io)
+![Top Lanuages](https://github-stats-extended.vercel.app/api/top-langs/?username=smallshawn95&layout=donut&theme=holi&langs_count=5&exclude_repo=smallshawn95.github.io)
 
-![SmallShawn95's Github Stats](https://github-readme-stats.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true&rank_icon=github)
+![SmallShawn95's Github Stats](https://github-stats-extended.vercel.app/api?username=smallshawn95&theme=holi&show_icons=true&rank_icon=github&include_all_commits=true)
 
 ![SmallShawn95's GitHub Streak](https://streak-stats.demolab.com/?user=smallshawn95&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)
 
-![SmallShawn95's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smallshawn95&theme=tokyo-night)
+<!-- ![SmallShawn95's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smallshawn95&theme=tokyo-night) -->
 
-<!-- ![SmallShawn95's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=smallshawn95) -->
-<!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=Python-Discord-Bot-Course&theme=holi) -->
-<!-- ![Repositorie Card](https://github-readme-stats.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
+![SmallShawn95's WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=smallshawn95&theme=holi&langs_count=5&api_domain=&display_format=time&hide=Other)
+
+<!-- ![Repositorie Card](https://github-stats-extended.vercel.app/api/pin/?username=smallshawn95&repo=Python-Discord-Bot-Course&theme=holi) -->
+<!-- ![Repositorie Card](https://github-stats-extended.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
 
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2058%20mins-blue?style=flat)
