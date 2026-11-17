@@ -36,8 +36,8 @@ jobs:
 
       - uses: ./.waka-readme-stats
         env:
-          # Validate pull requests without pushing a generated README to the main branch.
-          DEBUG_RUN: ${{ github.event_name == 'pull_request' && 'True' || 'False' }}
+          # Validate non-main branches without pushing a generated README to the main branch.
+          DEBUG_RUN: ${{ github.ref != 'refs/heads/main' && 'True' || 'False' }}
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           WAKATIME_API_URL: https://wakapi.smallshawn95.zip/api/compat/wakatime/v1/
