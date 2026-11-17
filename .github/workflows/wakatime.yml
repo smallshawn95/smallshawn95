@@ -18,6 +18,16 @@ jobs:
     if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     steps:
+      - name: Check required secrets
+        env:
+          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          if [ -z "$WAKAPI_API_KEY" ] || [ -z "$GH_TOKEN" ]; then
+            echo '::error::Set non-empty repository secrets WAKAPI_API_KEY and GH_TOKEN.'
+            exit 1
+          fi
+
       - name: Check out profile configuration
         uses: actions/checkout@v4
         with:
