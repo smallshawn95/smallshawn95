@@ -51,7 +51,7 @@
 
 <!-- ![SmallShawn95's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smallshawn95&theme=tokyo-night) -->
 
-![SmallShawn95's Wakapi Stats](https://github-stats-extended.vercel.app/api/wakatime?username=smallshawn95&theme=holi&langs_count=5&api_domain=wakapi.smallshawn95.zip&display_format=time&hide=Other)
+![SmallShawn95's Wakapi Stats](https://github-stats-extended.vercel.app/api/wakatime?username=smallshawn95&theme=holi&langs_count=5&api_domain=wakapi.smallshawn95.zip&display_format=time&hide=Unknown)
 
 <!-- ![Repositorie Card](https://github-stats-extended.vercel.app/api/pin/?username=smallshawn95&repo=Python-Discord-Bot-Course&theme=holi) -->
 <!-- ![Repositorie Card](https://github-stats-extended.vercel.app/api/pin/?username=smallshawn95&repo=ZeroJudge-Code&theme=holi) -->
