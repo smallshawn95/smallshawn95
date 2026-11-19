@@ -84,31 +84,31 @@ Sunday                   102 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-CSV                      1 hrs 0 mins        ███████████░░░░░░░░░░░░░░   42.51 % 
-YAML                     0 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Python                   0 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-C#                       0 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Html                     0 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+YAML                     1 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.56 % 
+CSV                      1 hrs 0 mins        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Unknown                  0 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Bash                     0 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Python                   0 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🔥 Editors: 
-Vscode                   1 hrs 43 mins       ██████████████████░░░░░░░   72.74 % 
-Codex-vscode             0 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Opencode-cli             0 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Vscode                   4 hrs 7 mins        ████████████████████░░░░░   81.56 % 
+Opencode-cli             0 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Codex-vscode             0 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🐱‍💻 Projects: 
-wakatime                 1 hrs 0 mins        ███████████░░░░░░░░░░░░░░   42.51 % 
-homelab                  0 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-opencode                 0 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-unknown                  0 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-FirstProject             0 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+homelab                  2 hrs 56 mins       ███████████████░░░░░░░░░░   58.10 % 
+wakatime                 1 hrs 0 mins        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+memogram                 0 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+opencode                 0 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+unknown                  0 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-Windows                  1 hrs 39 mins       █████████████████░░░░░░░░   69.78 % 
-Linux                    0 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
+Linux                    3 hrs 23 mins       █████████████████░░░░░░░░   67.32 % 
+Windows                  1 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
 ```
 
 
- Last Updated on 18/11/2026 22:51:09 UTC
+ Last Updated on 19/11/2026 22:54:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
