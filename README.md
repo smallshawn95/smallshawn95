@@ -84,31 +84,30 @@ Sunday                   102 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     1 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-CSV                      1 hrs 0 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Unknown                  0 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Markdown                 0 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-PHP                      0 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+YAML                     1 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+CSV                      1 hrs 0 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Unknown                  0 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Markdown                 0 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+PHP                      0 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🔥 Editors: 
-Vscode                   4 hrs 29 mins       ███████████████████░░░░░░   77.29 % 
-Opencode-cli             1 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Codex-vscode             0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Vscode                   4 hrs 31 mins       ████████████████████░░░░░   78.35 % 
+Opencode-cli             1 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 🐱‍💻 Projects: 
-homelab                  2 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.80 % 
-wakatime                 1 hrs 0 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-htdocs                   0 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-資料庫系統                    0 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-memogram                 0 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+homelab                  2 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.85 % 
+wakatime                 1 hrs 0 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+htdocs                   0 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+資料庫系統                    0 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+memogram                 0 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 💻 Operating System: 
-Linux                    3 hrs 11 mins       ██████████████░░░░░░░░░░░   54.80 % 
-Windows                  2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
+Linux                    3 hrs 13 mins       ██████████████░░░░░░░░░░░   55.89 % 
+Windows                  2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.11 % 
 ```
 
 
- Last Updated on 21/11/2026 21:27:14 UTC
+ Last Updated on 22/11/2026 21:31:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
