@@ -84,29 +84,24 @@ Sunday                   102 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     1 hrs 0 mins        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Unknown                  0 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-PHP                      0 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Bash                     0 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Markdown                 0 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+PHP                      0 hrs 35 mins       ███████████████████████░░   92.67 % 
+YAML                     0 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔥 Editors: 
-Vscode                   2 hrs 46 mins       ██████████████████████░░░   86.19 % 
-Opencode-cli             0 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Vscode                   0 hrs 37 mins       █████████████████████████   98.68 % 
+Opencode-cli             0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-homelab                  2 hrs 0 mins        ████████████████░░░░░░░░░   62.61 % 
-htdocs                   0 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-memogram                 0 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-資料庫系統                    0 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+htdocs                   0 hrs 35 mins       ███████████████████████░░   92.67 % 
+homelab                  0 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 💻 Operating System: 
-Linux                    2 hrs 28 mins       ███████████████████░░░░░░   77.08 % 
-Windows                  0 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Windows                  0 hrs 35 mins       ███████████████████████░░   92.67 % 
+Linux                    0 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 
- Last Updated on 25/11/2026 23:59:47 UTC
+ Last Updated on 27/11/2026 00:17:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
